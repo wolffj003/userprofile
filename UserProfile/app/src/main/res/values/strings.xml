@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="tvSplash">User Profile Application</string>
+
+    <string name="btnAddPic">Browse Gallery</string>
+    <string name="btnConfirm">Confirm</string>
+
+    <string name="ivDesc">Profile picture placeholder</string>
+    <string name="ivProfileCreatedDesc">Profile picture</string>
+
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="hintDescription">Description</string>
+
+    <string name="tvFullName">%1$s %2$s</string>
+    <string name="tvDescription">%s</string>
+
+</resources>
